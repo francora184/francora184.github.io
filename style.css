@@ -6,4 +6,6 @@ body{
 h1{
   text-align: left;
   color: white;
+  background-color: #99AAB5;
+  padding: 0;
 }
